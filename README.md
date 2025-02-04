@@ -1,1 +1,1 @@
-To do list web application.Create task Delete update task for daily activities
+Developed a dynamic To-Do List web application using Java, JSP, Servlets. implemented features like task addition, deletion, and display. utilized MVC architecture to ensure modular and maintainable code.
